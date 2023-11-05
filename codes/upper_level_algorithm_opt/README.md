@@ -83,4 +83,4 @@ $$
 8. BLAS 库（基本线性代数子程序）也有很多版本，OPENBLAS、NVIDIA CUDA 的 cuBlas、LAPACK、Intel 的 MKL 都是 BLAS 库的不同实现。你可以使用动态链接库的知识编译使用 blas 库解决矩阵问题的代码的不同版本，并查看其性能。
 9. 在运行 MPI、OpenMP 程序时，进程、线程亲和度绑定是一个比较重要的概念，OpenMP 的亲和度绑定环境变量为 `OMP_PLACES`、`OMP_PROC_BIND`，MPI 是 `mpirun` 的参数 `--bind-to`、`--rank-by`、`--map-by` 等。
 
-注意，由于出题人来不及（摆了）解决 BUG，在启动 MPI 程序时，使用的数据集的 m, n, p 应满足 $m$、$m * n$、$m * p$ 能够整除进程数 $size$，否则矩阵将无法完全划分。
+注意，由于出题人来不及（摆了）解决 BUG，在启动 MPI 程序时，使用的数据集的 m, n, p 应满足 $m$ 、 $m * n$ 、 $m * p$ 能够整除进程数 $size$，否则矩阵将无法完全划分。
