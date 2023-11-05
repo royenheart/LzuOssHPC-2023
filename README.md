@@ -24,7 +24,7 @@
 
 推荐使用 Markdown 或者 LaTeX 编写，生成 PDF 文件。LaTeX 推荐使用 overleaf 或者配置 vscode 写作环境。如果你的 word 写得相当规范也可以接受（最好还是生成 PDF 文件）。
 
-报告以及相关代码、数据打包压缩后，命名为 `姓名-年级-学院-专业-联系方式（QQ或者微信）`，在 **12 月 12 号** 前，发送至邮箱：[supercomputing@lzu.edu.cn](mailto:supercomputing@lzu.edu.cn)
+报告以及相关代码、数据打包压缩后，命名为 `姓名-年级-学院-专业-联系方式（QQ或者微信）`，在 **12 月 12 号** 前，发送至邮箱：[hpcclass@lzu.edu.cn](mailto:hpcclass@lzu.edu.cn)
 
 若你是外校学生或社会人士（谢谢您对我们团队的支持❤️），请附带上邮寄信息，方便后面我们奖品的发放。
 
