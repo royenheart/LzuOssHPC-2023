@@ -18,7 +18,7 @@
 - - [科学计算4](./problem-sets/sci-4.md)
 - - [科学计算拓展：运维](./problem-sets/ops.md)
 - 人工智能赛道题目：
-- - [人工智能]()
+- - [人工智能](./problem-sets/ai.md)
 
 ## 报告格式
 
