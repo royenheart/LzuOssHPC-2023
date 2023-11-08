@@ -14,7 +14,7 @@
 
 ​训练具有数十亿或数万亿参数的大型语言模型非常困难，因为不仅需要大量的计算资源，而且还需要复杂的训练方法来处理如此庞大的模型参数，这可能超出现代处理器的内存限制。所以应该使用一些特殊的训练方法，比如模型并行和管道并行。
 
-​Yuan1.0 是最大的单例汉语模型之一。它在一个新的 5TB 高质量文本中文数据集上进行训练，该数据集是从互联网的 850TB 原始数据中提取的。元 1.0 的架构是通过将其内在模型结构与严重影响大规模分布式训练性能的关键因素相结合而设计的。Yuan1.0 在一个有 2128 个 GPU 的集群上训练了大约 16 天。训练期间实际稳定表现达到了理论峰值的 $45\%$ 。Yuan1.0 的源代码可以从 https://github.com/Shawn-Inspur/Yuan-1.0。
+​Yuan1.0 是最大的单例汉语模型之一。它在一个新的 5TB 高质量文本中文数据集上进行训练，该数据集是从互联网的 850TB 原始数据中提取的。元 1.0 的架构是通过将其内在模型结构与严重影响大规模分布式训练性能的关键因素相结合而设计的。Yuan1.0 在一个有 2128 个 GPU 的集群上训练了大约 16 天。训练期间实际稳定表现达到了理论峰值的 $45\%$ 。Yuan1.0 的源代码可以从 https://github.com/Shawn-Inspur/Yuan-1.0 下载。
 
 #### 模型要求
 
@@ -53,7 +53,7 @@ $$
 
 数据集如要使用下载链接如下：
 
-- 百度云盘: https://pan.baidu.com/s/1zQgKjf1tafzw__COaufyPA  (extract code: 1jjz)
+- 百度云盘: https://pan.baidu.com/s/1sTnhTDzech79gACwYgF1bg?pwd=ASC1 (extract code: ASC1)
 
 - Microsoft OneDrive: https://1drv.ms/f/s!Ar_0HIDyftZTsFkbM8eQFtquk4ZH
 
