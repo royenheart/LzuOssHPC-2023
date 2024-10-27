@@ -37,3 +37,7 @@
 感谢兰州大学超算中心、兰州大学开源社区的大力支持。
 
 出题人：[RoyenHeart](https://github.com/royenheart)、[Season111](https://github.com/Season111)
+
+## 题外话
+
+- [欢迎参加北大 HPCGame](https://hpcgame.pku.edu.cn/)
