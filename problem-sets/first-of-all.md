@@ -16,3 +16,9 @@
 `Talk is cheap, show me your code`，能用图表、代码表示最好。我们不欢迎小作文，简明扼要完成要求即可。
 
 当然，若你在要求之外还有延伸的深度思考，我们大力欢迎。在报告中揪出 BUG 也是可行的。
+
+## After
+
+推荐阅读资料：
+
+- [Google 技术写作教程](https://developers.google.com/tech-writing)
